@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9742],{99742:function(n,e,t){"use strict";t.r(e),t.d(e,{SeoContentCut:function(){return o}});var s=t(52322),u=t(2784);t(54025);let o=(0,u.memo)(function(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)("span",{className:"sb-SeoContentCut-dots",children:"..."}),(0,s.jsx)("span",{className:"sb-SeoContentCut"})]})})},54025:function(){}}]);
+//# sourceMappingURL=9742.43e4bca990b70b10.js.map
