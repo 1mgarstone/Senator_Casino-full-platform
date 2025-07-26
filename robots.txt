@@ -1,0 +1,24 @@
+User-agent: Screaming Frog SEO Spider
+Allow: /
+User-agent: *
+Disallow: /*?
+Disallow: /profile
+Disallow: /de/profile
+Disallow: /en-CA/profile
+Disallow: /ru/profile
+Disallow: /fi/profile
+Disallow: /no/profile
+Disallow: /fr/profile
+Disallow: /pl/profile
+Disallow: /users/*
+Disallow: /de/users/*
+Disallow: /en-CA/users/*
+Disallow: /ru/users/*
+Disallow: /fi/users/*
+Disallow: /no/users/*
+Disallow: /fr/users/*
+Disallow: /pl/users/*
+Disallow: /sports/
+
+Host: https://www.letslucky.com
+
